@@ -12,7 +12,7 @@
   date,time are uploaded in realtime to a Google Spreadsheet using a wifi-enabled 
   microcontroller.
 </pre>
-<img src="C:\Users\rawat\OneDrive\Pictures\Screenshots">
+<img width="551" height="569" alt="Screenshot 2025-12-22 163548" src="https://github.com/user-attachments/assets/1faea109-c9b8-47fe-9c43-1adc415b17df" />
 <br>
 <h1>🌟FEATURES</h1>
 <HR>
@@ -23,6 +23,7 @@
   <b>2. Alert System:</b>
   Buzzer beeps whenever any book is scanned.
 </pre>
-<img src="https://1drv.ms/i/c/7fe865695307a721/IQCZqJBZzHdPT4rCWg_AQr3xAUydXJoefFDyEyJWaU1CJpw?e=E2QygZ>
+<img width="1920" height="1080" alt="2025-12-15" src="https://github.com/user-attachments/assets/69c8d286-e2d3-42a1-b46f-b2cbd5f4d5c9" />
+
 
 
