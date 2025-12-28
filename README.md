@@ -1,6 +1,5 @@
-#smart-library
-<H1>SMART LIBRARY SYSTEM </H1>
-<br>
+
+<H1>🌟SMART LIBRARY SYSTEM </H1>
 <hr>
 <br>
 <pre>
@@ -12,9 +11,13 @@
   date,time are uploaded in realtime to a Google Spreadsheet using a wifi-enabled 
   microcontroller.
 </pre>
+<BR>
+<H1>🌟GOOGLE SPREADSHEET DATA :</H1>
+<hr>
 <img width="551" height="569" alt="Screenshot 2025-12-22 163548" src="https://github.com/user-attachments/assets/1faea109-c9b8-47fe-9c43-1adc415b17df" />
 <br>
-<h1>🌟FEATURES</h1>
+<br>
+<h1>🌟FEATURES:</h1>
 <HR>
 <pre>
   <b>1. Real time sensoring:</b>
@@ -31,6 +34,10 @@
    When you first scan the rfid tag it shows book is taken and 
    on scanning that again it shows that books is returned.
 </pre>
+<br>
+<br>
+<h1>🌟CIRCUIT DIAGRAM:</h1>
+<HR>
 <img width="1920" height="1080" alt="2025-12-15" src="https://github.com/user-attachments/assets/69c8d286-e2d3-42a1-b46f-b2cbd5f4d5c9" />
 
 
