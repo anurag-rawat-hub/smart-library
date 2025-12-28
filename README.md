@@ -22,6 +22,7 @@
 <pre>
   <b>1. Real time sensoring:</b>
   Reads UID of RFID tags using MFRC522 and ESP8266.
+  
 
   <b> 2. Alert System:</b>
    Buzzer beeps whenever any book is scanned.
