@@ -37,9 +37,32 @@
 </pre>
 <br>
 <br>
+<h1>🌟 TECHNOLOGIES & COMPONENTS</h1>
+<hr>
+
+<h3>Hardware Used</h3>
+
+<ul>
+  <li>ESP8266 / NodeMCU</li>
+  <li>RC522 RFID Module</li>
+  <li>I2C LCD Display</li>
+  <li>Buzzer Module</li>
+  <li>RFID Tags & Cards</li>
+</ul>
+
+<h3>Software & Platforms</h3>
+
+<ul>
+  <li>Arduino IDE</li>
+  <li>Embedded C++</li>
+  <li>Google Sheets API</li>
+  <li>IoT Based Automation</li>
+</ul>
+
+<br>
 <h1>🌟CIRCUIT DIAGRAM:</h1>
 <HR>
 <img width="1920" height="1080" alt="2025-12-15" src="https://github.com/user-attachments/assets/69c8d286-e2d3-42a1-b46f-b2cbd5f4d5c9" />
-updated
+
 
 
